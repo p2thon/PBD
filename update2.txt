@@ -1,0 +1,1 @@
+Triggerevent(REYZ-FX:Support, text, hash, NO)
